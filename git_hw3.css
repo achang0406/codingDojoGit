@@ -1,4 +1,9 @@
+body{
+	background-color: black;
+	color:white;
+}
 img{
-	display: block;
+	/*display: block;*/
 	margin: 10px;
+	border:1px solid white;
 }
